@@ -11,3 +11,6 @@ Everything is funny, as long as it's happening to somebody else.
 First they ignore you, then they laugh at you, then they fight you, then you win.
 
 - Mahatma Gandhi
+=================================================================================
+
+third commit to humor.txt

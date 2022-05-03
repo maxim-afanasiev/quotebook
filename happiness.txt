@@ -14,3 +14,6 @@ Happiness is always a by-product. It is probably a matter of temperament, and fo
 The secret of happiness is to find a congenial monotony.
 
 - V.S. Pritchett
+=================================================================================
+
+third commit to happiness.txt
